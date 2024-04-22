@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
 
-filename = "NabeulrRest"
+filename = "file_name"
 # *********************** 
 ##go to google maps and search the type of business and the area copy the link and paste it(ex: restaurants in nabeul)
 link = "https://www.google.com/maps/search/restaurants+in+Nabeul%E2%80%8E,+Gouvernorat+de+Nabeul/@36.4500749,10.7235444,15z/data=!4m2!2m1!6e5?entry=ttu"
